@@ -117,6 +117,9 @@ label {
   align-content: flex-start;
 }
 
+.flex-inner li{
+  width: 95px;
+}
 
 
 
